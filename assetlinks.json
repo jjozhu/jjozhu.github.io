@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.mimi_stelladot",
-    "sha256_cert_fingerprints":
-    ["9B:B8:4A:8F:B4:C8:D2:3C:EE:68:87:DB:51:ED:50:69:21:88:26:06:BE:B0:AE:86:AC:5A:7F:A9:E4:45:DC:97"]
-  }
-}]
